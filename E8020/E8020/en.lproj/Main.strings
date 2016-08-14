@@ -1,0 +1,177 @@
+
+/* Class = "UITextField"; placeholder = "Work Description"; ObjectID = "0bi-Ok-rfT"; */
+"0bi-Ok-rfT.placeholder" = "Work Description";
+
+/* Class = "UITextField"; placeholder = "Description"; ObjectID = "1Qx-ue-FNf"; */
+"1Qx-ue-FNf.placeholder" = "Description";
+
+/* Class = "UIButton"; normalTitle = "Report"; ObjectID = "1cm-Nw-pG0"; */
+"1cm-Nw-pG0.normalTitle" = "Report";
+
+/* Class = "UILabel"; text = "Assign to"; ObjectID = "3Bd-uZ-F77"; */
+"3Bd-uZ-F77.text" = "Assign to";
+
+/* Class = "UITableViewSection"; headerTitle = "Work Value"; ObjectID = "3y4-xn-Wkl"; */
+"3y4-xn-Wkl.headerTitle" = "Work Value";
+
+/* Class = "UITableViewSection"; headerTitle = "Unique ID"; ObjectID = "3yF-um-RwR"; */
+"3yF-um-RwR.headerTitle" = "Unique ID";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "4Ea-EL-DWq"; */
+"4Ea-EL-DWq.text" = "Label";
+
+/* Class = "UILabel"; text = "UserName"; ObjectID = "4oq-7i-Tfq"; */
+"4oq-7i-Tfq.text" = "UserName";
+
+/* Class = "UIButton"; normalTitle = "2015-11-29"; ObjectID = "5aH-fe-ybD"; */
+"5aH-fe-ybD.normalTitle" = "2015-11-29";
+
+/* Class = "UITableViewSection"; headerTitle = "Member"; ObjectID = "6Uu-AI-w61"; */
+"6Uu-AI-w61.headerTitle" = "Member";
+
+/* Class = "UINavigationItem"; title = "DoList"; ObjectID = "7Q0-pb-blk"; */
+"7Q0-pb-blk.title" = "DoList";
+
+/* Class = "UITableViewSection"; headerTitle = " "; ObjectID = "9Sk-fU-H99"; */
+"9Sk-fU-H99.headerTitle" = " ";
+
+/* Class = "UILabel"; text = "Generate by System"; ObjectID = "9cw-en-JzY"; */
+"9cw-en-JzY.text" = "Generate by System";
+
+/* Class = "UISegmentedControl"; CGP-08-mVy.segmentTitles[0] = "Value"; ObjectID = "CGP-08-mVy"; */
+"CGP-08-mVy.segmentTitles[0]" = "Value";
+
+/* Class = "UISegmentedControl"; CGP-08-mVy.segmentTitles[1] = "Time"; ObjectID = "CGP-08-mVy"; */
+"CGP-08-mVy.segmentTitles[1]" = "Time";
+
+/* Class = "UIBarButtonItem"; title = "Add"; ObjectID = "CTd-Rn-xVo"; */
+"CTd-Rn-xVo.title" = "Add";
+
+/* Class = "UILabel"; text = "User"; ObjectID = "D74-kB-K8q"; */
+"D74-kB-K8q.text" = "User";
+
+/* Class = "UILabel"; text = "2015-10-30"; ObjectID = "Dza-2l-CfM"; */
+"Dza-2l-CfM.text" = "2015-10-30";
+
+/* Class = "UILabel"; text = "End"; ObjectID = "ExB-6R-oT5"; */
+"ExB-6R-oT5.text" = "End";
+
+/* Class = "UITabBarItem"; title = "Engagement"; ObjectID = "FuK-We-GYd"; */
+"FuK-We-GYd.title" = "Engagement";
+
+/* Class = "UISegmentedControl"; GES-g4-6ZC.segmentTitles[0] = "First"; ObjectID = "GES-g4-6ZC"; */
+"GES-g4-6ZC.segmentTitles[0]" = "First";
+
+/* Class = "UISegmentedControl"; GES-g4-6ZC.segmentTitles[1] = "Second"; ObjectID = "GES-g4-6ZC"; */
+"GES-g4-6ZC.segmentTitles[1]" = "Second";
+
+/* Class = "UILabel"; text = "User"; ObjectID = "IZV-DX-gON"; */
+"IZV-DX-gON.text" = "User";
+
+/* Class = "UILabel"; text = "Sum_Time"; ObjectID = "Iag-88-CD0"; */
+"Iag-88-CD0.text" = "Sum_Time";
+
+/* Class = "UILabel"; text = "2015-10-25"; ObjectID = "J9N-iz-cqP"; */
+"J9N-iz-cqP.text" = "2015-10-25";
+
+/* Class = "UITextField"; placeholder = "Work value per hour"; ObjectID = "LSV-ox-Qyc"; */
+"LSV-ox-Qyc.placeholder" = "Work value per hour";
+
+/* Class = "UINavigationItem"; title = "User"; ObjectID = "OR8-VS-LgF"; */
+"OR8-VS-LgF.title" = "User";
+
+/* Class = "UIButton"; normalTitle = "Create an account"; ObjectID = "OSv-rJ-p9M"; */
+"OSv-rJ-p9M.normalTitle" = "Create an account";
+
+/* Class = "UITextField"; placeholder = "Exp_value"; ObjectID = "Pd5-ip-5Nz"; */
+"Pd5-ip-5Nz.placeholder" = "Exp_value";
+
+/* Class = "UILabel"; text = "Team"; ObjectID = "Q5d-SR-QFB"; */
+"Q5d-SR-QFB.text" = "Team";
+
+/* Class = "UITableViewSection"; headerTitle = "  "; ObjectID = "QNm-z9-Fmq"; */
+"QNm-z9-Fmq.headerTitle" = "  ";
+
+/* Class = "UILabel"; text = "WorkTitle"; ObjectID = "Ryy-iC-er5"; */
+"Ryy-iC-er5.text" = "WorkTitle";
+
+/* Class = "UINavigationItem"; title = "Add Work"; ObjectID = "TEZ-US-9yq"; */
+"TEZ-US-9yq.title" = "Add Work";
+
+/* Class = "UITextField"; placeholder = "Exp_time"; ObjectID = "WBX-2l-atW"; */
+"WBX-2l-atW.placeholder" = "Exp_time";
+
+/* Class = "UIButton"; normalTitle = "UserName"; ObjectID = "X02-Pg-DZ8"; */
+"X02-Pg-DZ8.normalTitle" = "UserName";
+
+/* Class = "UILabel"; text = "+20"; ObjectID = "ZYX-RZ-T20"; */
+"ZYX-RZ-T20.text" = "+20";
+
+/* Class = "UITableViewSection"; headerTitle = " DisplayName"; ObjectID = "aoI-Me-9Wv"; */
+"aoI-Me-9Wv.headerTitle" = " DisplayName";
+
+/* Class = "UIButton"; normalTitle = "Sign Out"; ObjectID = "awM-ob-Uyp"; */
+"awM-ob-Uyp.normalTitle" = "Sign Out";
+
+/* Class = "UITableViewSection"; headerTitle = "Description"; ObjectID = "bUT-2m-UjB"; */
+"bUT-2m-UjB.headerTitle" = "Description";
+
+/* Class = "UIButton"; normalTitle = "Sum:"; ObjectID = "cXc-U4-tTe"; */
+"cXc-U4-tTe.normalTitle" = "Sum:";
+
+/* Class = "UITabBarItem"; title = "WorkList"; ObjectID = "d8S-yD-sYk"; */
+"d8S-yD-sYk.title" = "WorkList";
+
+/* Class = "UINavigationItem"; title = "Title"; ObjectID = "eqo-fb-zNk"; */
+"eqo-fb-zNk.title" = "Title";
+
+/* Class = "UILabel"; text = "work description"; ObjectID = "fO9-Td-ito"; */
+"fO9-Td-ito.text" = "work description";
+
+/* Class = "UILabel"; text = "User"; ObjectID = "gpu-qN-8Oq"; */
+"gpu-qN-8Oq.text" = "User";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "h7L-o9-SHc"; */
+"h7L-o9-SHc.placeholder" = "Password";
+
+/* Class = "UITextField"; placeholder = "Title"; ObjectID = "jEq-Jz-7zR"; */
+"jEq-Jz-7zR.placeholder" = "Title";
+
+/* Class = "UIButton"; normalTitle = "Engagment"; ObjectID = "jdZ-Ex-86N"; */
+"jdZ-Ex-86N.normalTitle" = "Engagment";
+
+/* Class = "UILabel"; text = "E8020"; ObjectID = "jhi-tX-D06"; */
+"jhi-tX-D06.text" = "Cut Cake Distribution";
+
+/* Class = "UITableViewSection"; headerTitle = "Control"; ObjectID = "pLD-Q8-VXj"; */
+"pLD-Q8-VXj.headerTitle" = "Control";
+
+/* Class = "UIButton"; normalTitle = "Engagement"; ObjectID = "paP-bz-DUb"; */
+"paP-bz-DUb.normalTitle" = "Engagement";
+
+/* Class = "UILabel"; text = "Active"; ObjectID = "s8y-U6-Z83"; */
+"s8y-U6-Z83.text" = "Active";
+
+/* Class = "UILabel"; text = "Leader"; ObjectID = "sGu-hF-UiT"; */
+"sGu-hF-UiT.text" = "Leader";
+
+/* Class = "UITableViewSection"; headerTitle = "Title"; ObjectID = "sdl-g3-bye"; */
+"sdl-g3-bye.headerTitle" = "Title";
+
+/* Class = "UITextField"; placeholder = "Work Title"; ObjectID = "x8B-8o-J8K"; */
+"x8B-8o-J8K.placeholder" = "Work Title";
+
+/* Class = "UINavigationItem"; title = "AddEngagement"; ObjectID = "xKQ-FH-leV"; */
+"xKQ-FH-leV.title" = "AddEngagement";
+
+/* Class = "UIButton"; normalTitle = "User"; ObjectID = "y14-8n-hyU"; */
+"y14-8n-hyU.normalTitle" = "User";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "yAw-n8-ILV"; */
+"yAw-n8-ILV.placeholder" = "Username";
+
+/* Class = "UILabel"; text = "Complete"; ObjectID = "yIO-8g-NFp"; */
+"yIO-8g-NFp.text" = "Complete";
+
+/* Class = "UIButton"; normalTitle = "Sign In"; ObjectID = "zvr-c1-HRt"; */
+"zvr-c1-HRt.normalTitle" = "Sign In";

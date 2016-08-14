@@ -1,0 +1,67 @@
+/* 
+  Localizable.strings
+  E8020
+
+  Created by Yiwen Fu on 16/1/3.
+  Copyright © 2016年 Yiwen Fu. All rights reserved.
+*/
+
+"connecterror"="连接错误!";
+
+"error"="错误";
+
+"ok"="好的";
+
+"canncel"="取消";
+
+"signin"="登录";
+
+"createaccount"="创建用户";
+
+"report"="举报";
+
+"msg001"="用户名已经存在，请用别的用户名注册。";
+
+"msg002"="用户名或密码不正确。";
+
+"msg003"="可以选择你想要查看或者编辑的项目";
+
+"msg004"="查找，新建或者编辑项目";
+
+"msg005"="输入UniqueID查找项目";
+
+"msg006"="未找到项目。";
+
+"msg007"="包含不当内容进行举报？";
+
+"msg008"="用户名可以包含字母、数字并且不超过15位。";
+
+"msg009"="选择用户";
+
+"msg010"="追加工作时间";
+
+"msg011"="已经发送加入请求。";
+
+"accept"="采纳";
+
+"deny"="否决";
+
+"new"="新建";
+
+"edit"="编辑";
+
+"search"="查找";
+
+"failed"="失败";
+
+"uniqueid"="唯一标识";
+
+"sumvalue"="总价值 ";
+
+"sumtime"="总时间 ";
+
+"dotime"="工作时间 ";
+
+"dovalue"="工作价值 ";
+
+"domemo"="工作内容 ";

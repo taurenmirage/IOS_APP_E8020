@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[AddEngagementTableViewController saveUpdateToCoreData]:AddEngagementTableViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.workValue.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[EngagementMainViewController fetchEngagementListFromCoreData]:EngagementMainViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "record.leader_user">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "main:main.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[EngagementMainViewController addRadialProgress]:EngagementMainViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "radialView.labelText">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[WorkListTableViewController viewDidLoad]:WorkListTableViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[EngagementMainViewController prepareForSegue:sender:]:EngagementMainViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[EngagementMainViewController engagementSelect:]:EngagementMainViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[UserApproveListTableViewController joinChange:]:UserApproveListTableViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[EngagementMainViewController fetchEngagementList]:EngagementMainViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[EngagementMainViewController saveUserJoinEngagementToCoreData]:EngagementMainViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[WorkListTableViewController fetchEngagementListFromCoreData]:WorkListTableViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[_fetchResultController.fetchedObjects count]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[WorkListTableViewController tableView:numberOfRowsInSection:]:WorkListTableViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[_fetchResultController.fetchedObjects count]">
+            </PersistentString>
+            <PersistentString
+               value = "_fetchResultController.fetchedObjects count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[EngagementMainViewController saveDataToCoreData]:EngagementMainViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[record valueForKeyPath:@&quot;engagement_id&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[AddEngagementTableViewController fetchEngagementListFromCoreData]:AddEngagementTableViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[record.leader_user]">
+            </PersistentString>
+            <PersistentString
+               value = "record.average_value">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[UserApproveListTableViewController tableView:cellForRowAtIndexPath:]:UserApproveListTableViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "cell.joinFlag.tag ">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

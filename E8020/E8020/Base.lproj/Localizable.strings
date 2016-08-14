@@ -1,0 +1,67 @@
+/* 
+  Localizable.strings
+  E8020
+
+  Created by Yiwen Fu on 16/1/3.
+  Copyright © 2016年 Yiwen Fu. All rights reserved.
+*/
+
+"connecterror"="Connect error!";
+
+"error"="Error";
+
+"ok"="OK";
+
+"canncel"="Cancel";
+
+"signin"="Sign In";
+
+"createaccount"="Create an Account";
+
+"report"="Report";
+
+"msg001"="Username already exist.";
+
+"msg002"="Incorrect username or password.";
+
+"msg003"="Select canvas to view or edit.";
+
+"msg004"="New,edit or search canvas";
+
+"msg005"="Input uniqueID to view open canvas.";
+
+"msg006"="Canvas not found or not open for view.";
+
+"msg007"="Report inporperate content?";
+
+"msg008"="Username can only contain letters,numbers and no more than 15 characters.";
+
+"msg009"="Select user.";
+
+"msg010"="Add work time.";
+
+"msg011"="Join Request Sended.";
+
+"accept"="Accept";
+
+"deny"="Deny";
+
+"new"="New";
+
+"edit"="Edit";
+
+"search"="Search";
+
+"failed"="Failed";
+
+"uniqueid"="UniqueID";
+
+"sumvalue"="Sum Value ";
+
+"sumtime"="Sum Time ";
+
+"dotime"="Work Time";
+
+"dovalue"="Work Value ";
+
+"domemo"="Work Memo";

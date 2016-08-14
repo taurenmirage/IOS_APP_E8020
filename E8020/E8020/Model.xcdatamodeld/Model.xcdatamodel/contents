@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="9525" systemVersion="15C50" minimumToolsVersion="Xcode 7.0">
+    <entity name="Company" representedClassName="Company" syncable="YES">
+        <attribute name="active_flag" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="company_id" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="company_name" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Engagement" representedClassName="Engagement" syncable="YES">
+        <attribute name="active_flag" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="average_value" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="begin_date" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="company_id" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="complete_date" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="complete_flag" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="complete_user" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="current_user_time" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="current_user_value" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="end_date" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="engagement_description" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="engagement_id" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="engagement_title" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="engagement_type" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="leader_user" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="sum_time" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="sum_value" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="unique_id" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="User" representedClassName="User" syncable="YES">
+        <attribute name="active_flag" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="company_id" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="display_name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="user_id" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="user_name" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="UserDoWork" representedClassName="UserDoWork" syncable="YES">
+        <attribute name="active_flag" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="appove_date" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="appove_user" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="begin_date" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="create_date" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="deny_date" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="deny_user" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="display_name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="do_id" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="do_memo" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="end_date" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="user_id" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="work_id" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="work_time" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="work_value" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+    </entity>
+    <entity name="UserJoinEngagement" representedClassName="UserJoinEngagement" syncable="YES">
+        <attribute name="create_date" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="display_name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="e_sum_time" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="e_sum_value" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="engagement_id" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="join_id" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="join_type" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="join_value" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="leader_flag" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="sum_time" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="sum_value" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="user_id" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Work" representedClassName="Work" syncable="YES">
+        <attribute name="active_flag" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="appove_date" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="appove_user" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="assign_user" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="begin_date" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="complete_date" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="complete_flag" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="complete_user" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="deny_date" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="deny_user" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="end_date" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="engagement_id" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="exp_work_time" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="exp_work_value" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="work_description" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="work_id" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="work_title" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="work_type" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Company" positionX="-18" positionY="36" width="128" height="90"/>
+        <element name="Engagement" positionX="-54" positionY="0" width="128" height="315"/>
+        <element name="User" positionX="-63" positionY="-18" width="128" height="120"/>
+        <element name="UserDoWork" positionX="0" positionY="54" width="128" height="270"/>
+        <element name="UserJoinEngagement" positionX="18" positionY="180" width="128" height="225"/>
+        <element name="Work" positionX="-36" positionY="18" width="128" height="315"/>
+    </elements>
+</model>
